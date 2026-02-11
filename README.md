@@ -1,74 +1,52 @@
-⚡ Piezoelectric Tile Energy Harvesting System
-📌 Overview
+# ⚡ Piezoelectric Tile Energy Harvesting System
 
-This project demonstrates a smart energy harvesting system that converts mechanical energy from human footsteps into usable electrical energy using piezoelectric technology. The system is designed for high-footfall public areas and supports sustainable and smart infrastructure applications.
+## 📌 Overview
+The Piezoelectric Tile Energy Harvesting System converts mechanical energy from human footsteps into usable electrical energy using piezoelectric technology. It is designed for high-footfall public spaces to support sustainable and smart infrastructure.
 
-❓ Problem Statement
+## ❓ Problem Statement
+In crowded public areas such as malls, airports, and railway stations, a large amount of mechanical energy from human movement is wasted. There is a growing need for clean, renewable, and decentralized energy solutions.
 
-In public places such as malls, airports, and railway stations, a large amount of mechanical energy generated from human movement is wasted. At the same time, there is an increasing demand for clean, renewable, and decentralized energy sources to power smart infrastructure.
+## 💡 Proposed Solution
+Piezoelectric discs are embedded beneath floor tiles to generate electrical energy when pressure is applied. The generated energy is rectified, regulated, stored using batteries or supercapacitors, and used to power low-energy applications.
 
-💡 Proposed Solution
+## ⚙️ Working Principle
+1. Footstep pressure is applied on the tile  
+2. Piezoelectric discs generate electrical energy  
+3. AC output is converted to DC using rectifier  
+4. Energy is stored in battery/supercapacitor  
+5. Stored energy powers smart devices  
 
-The solution uses piezoelectric discs embedded beneath floor tiles. When pressure is applied by footsteps, the discs generate electrical energy. This energy is rectified, regulated, and stored using batteries or supercapacitors, and later used to power low-energy devices.
+## 🧠 Key Features
+- Renewable energy from human footsteps  
+- Modular and scalable tile design  
+- Low maintenance and cost-effective  
+- Suitable for smart city infrastructure  
 
-⚙️ Working Principle
+## 🛠️ Technologies Used
+- Piezoelectric Discs  
+- Rectifier & Power Management Circuit  
+- Battery / Supercapacitor  
+- Microcontroller (Arduino)  
+- Embedded C  
 
-Footstep pressure is applied on the tile
+## 📍 Applications
+- Smart LED floor and pathway lighting  
+- IoT-based occupancy and motion sensors  
+- Public information displays  
+- Low-power charging stations  
 
-Piezoelectric discs generate electrical energy
+## 🌱 Sustainability Impact
+- Reduces dependency on conventional electricity  
+- Utilizes clean and renewable energy  
+- Promotes sustainable urban development  
 
-AC output is rectified to DC
+## 🔮 Future Scope
+- Improve energy efficiency and power output  
+- Wireless monitoring and IoT integration  
+- Large-scale deployment in smart city projects  
 
-Energy is stored in battery/supercapacitor
+## 👥 Team
+- Undergraduate students – Electronics and Communication Engineering  
 
-Stored energy powers smart devices
-
-🧠 Key Features
-
-Renewable energy generation from human movement
-
-Modular and scalable floor tile design
-
-Low maintenance and cost-effective
-
-Suitable for smart city infrastructure
-
-🛠️ Technologies Used
-
-Piezoelectric Discs
-
-Rectifier & Power Management Circuit
-
-Battery / Supercapacitor
-
-Microcontroller (Arduino / Embedded System)
-
-Embedded C
-
-📍 Applications
-
-Smart LED floor and pathway lighting
-
-IoT-based occupancy and motion sensors
-
-Public information displays
-
-Low-power charging stations
-
-🌱 Sustainability Impact
-
-Reduces dependency on conventional electricity
-
-Utilizes clean and renewable energy
-
-Supports sustainable urban development
-
-🔮 Future Scope
-
-Improve energy efficiency and power output
-
-Wireless monitoring of energy generation
-
-Integration with IoT and smart grid systems
-
-Large-scale deployment in smart cities
+## 📜 License
+This project is developed for academic and educational purposes.
